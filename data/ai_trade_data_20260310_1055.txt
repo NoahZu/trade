@@ -1,0 +1,227 @@
+════════════════════════════════════════════════════════════
+ AI 交易助手 — 完整市场数据报告
+ 生成时间: 2026-03-10 10:55:01
+════════════════════════════════════════════════════════════
+
+[1/3] 获取市场行情数据...
+
+
+============================================================
+以下内容可直接复制粘贴给 AI 交易助手:
+============================================================
+
+[市场概览] 2026-03-09 22:55 ET
+当前状态: 休市（美东 20:00-04:00）
+北京时间: 2026-03-10 10:55 北京时间
+
+═══ 大盘指数 ═══
+SPY(标普500 ETF): $678.27 +0.99% Vol:102.2M | 周涨跌:-0.30%
+QQQ(纳斯达克100 ETF): $607.76 +1.38% Vol:92.8M | 周涨跌:+1.03%
+DIA(道琼斯 ETF): $477.88 +0.37% Vol:10.3M | 周涨跌:-1.57%
+IWM(罗素2000 ETF): $253.62 +1.27% Vol:65.1M | 周涨跌:-2.17%
+
+═══ VIX 恐慌指数 ═══
+VIX: 25.5 (-13.53%)
+等级: 🟠 高波动（谨慎）
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[板块热力图] 2026-03-09 22:55 ET
+
+板块         ETF          价格      日涨跌      周涨跌
+──────────────────────────────────────────────
+🟢 科技       XLK    $ 139.76 +  1.83% +  1.64%
+🟢 医疗保健     XLV    $ 154.26 +  1.15%  -1.58%
+🟩 通信服务     XLC    $ 117.56 +  0.78%  -0.34%
+🟩 工业       XLI    $ 170.94 +  0.73%  -2.56%
+🟩 材料       XLB    $  49.99 +  0.55%  -3.75%
+🟩 房地产      XLRE   $  42.98 +  0.37%  -1.65%
+🟩 可选消费     XLY    $ 114.59 +  0.31% +  0.20%
+🟩 公用事业     XLU    $  46.85 +  0.24%  -0.47%
+🟩 必需消费     XLP    $  85.97 +  0.21%  -2.02%
+🟧 金融       XLF    $  50.33  -0.59%  -1.72%
+🟧 能源       XLE    $  56.32  -0.65%  -0.35%
+
+涨: 9个板块 | 跌: 2个板块
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[行情] 2026-03-09 22:55 ET
+AAPL: $259.88 (+1.17%) Vol: 38.2M 市值: 3.82T
+MSFT: $409.41 (+0.30%) Vol: 30.1M 市值: 3.04T
+NVDA: $182.65 (+2.57%) Vol: 176.6M 市值: 4.44T
+GOOGL: $306.36 (+2.87%) Vol: 29.3M 市值: 3.71T
+AMZN: $213.49 (+0.28%) Vol: 54.5M 市值: 2.29T
+META: $647.39 (+0.72%) Vol: 13.5M 市值: 1.64T
+TSLA: $398.68 (+0.66%) Vol: 66.8M 市值: 1.50T
+TSM: $348.70 (+2.59%) Vol: 19.1M 市值: 1.81T
+AVGO: $345.75 (+4.41%) Vol: 40.5M 市值: 1.64T
+AMD: $202.68 (+5.12%) Vol: 38.8M 市值: 330.5B
+CRM: $198.79 (-0.92%) Vol: 10.7M 市值: 186.3B
+NFLX: $98.32 (-0.28%) Vol: 48.5M 市值: 417.1B
+ORCL: $151.56 (-0.81%) Vol: 31.1M 市值: 435.6B
+PLTR: $156.43 (-0.27%) Vol: 47.4M 市值: 374.1B
+APP: $517.23 (+3.32%) Vol: 5.3M 市值: 174.8B
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[财报日历] 未来7天
+
+日期           股票      
+──────────────────────
+2026-03-11   ORCL    
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[经济日历] 提醒
+注意: 经济日历数据无法自动获取，请手动查看以下来源:
+  • https://www.investing.com/economic-calendar/
+  • https://finance.yahoo.com/calendar/economic/
+  • https://www.forexfactory.com/calendar
+如有重要数据（CPI/PPI/FOMC/非农等），请手动补充给 AI。
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[美联储政策] 提醒
+注意: 请手动确认以下信息:
+  • 当前联邦基金利率目标区间
+  • CME FedWatch 下次会议降息/加息概率
+  • 查看: https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[2/3] 获取美联储政策 & 利率数据...
+
+[美联储政策 & 利率环境] 2026-03-09 22:55 ET
+
+═══ 美国国债收益率 ═══
+
+期限                      收益率      日变动      周变动
+──────────────────────────────────────────────
+3个月国债收益率             3.593% +  0.023  -0.002
+5年国债收益率              3.736% +  0.021 +  0.105
+10年国债收益率             4.136% +  0.003 +  0.080
+30年国债收益率             4.740%  -0.015 +  0.038
+
+═══ 收益率曲线分析 ═══
+
+  曲线状态: 正常
+  • 3M/10Y 利差正常: 0.543%
+  • 10Y/30Y 利差: 0.604%
+  • 10Y 收益率 4.136% — 偏高，关注后续走势
+
+═══ 利率敏感 ETF ═══
+
+ETF    名称                           价格      日涨跌      周涨跌
+────────────────────────────────────────────────────────
+TLT    20+年国债ETF(利率反向)        $  89.23 +  0.75%  -0.22%
+SHY    1-3年国债ETF              $  82.77 +  0.07%  -0.04%
+IEF    7-10年国债ETF             $  96.75 +  0.21%  -0.27%
+HYG    高收益债ETF                $  80.17 +  0.64% +  0.06%
+LQD    投资级债ETF                $ 110.82 +  0.59%  -0.05%
+
+═══ 联邦基金利率 ═══
+
+  当前利率及市场预期需通过以下来源确认:
+  • CME FedWatch: https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html
+  • 美联储官网: https://www.federalreserve.gov/monetarypolicy/openmarket.htm
+
+  请手动补充以下信息:
+  1. 当前联邦基金利率目标区间: ____% - ____%
+  2. 下次FOMC会议日期: ________
+  3. 市场预期降息概率: ____%
+  4. 年内预期降息次数: ____次
+
+═══ 利率环境对投资的启示 ═══
+
+  • 中性利率环境: 关注盈利增长驱动的个股
+  • 科技股估值受一定压制但可接受
+  • 关注降息预期变化对市场的影响
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[3/3] 获取经济日历...
+
+[经济日历] 2026-03-09 22:55 ET
+
+═══ 本周重要经济数据 ═══
+
+事件                        时间                   预期         前值         实际
+──────────────────────────────────────────────────────────────────────
+FOMC 会议                   January27-28Statement:PDF|HTMLImplementation NotePress ConferenceStatement on Longer-Run Goals and Monetary Policy StrategyMinutes:PDF|HTML(Released February 18, 2026)          -          -        待发布
+FOMC 会议                   March17-18*           -          -        待发布
+FOMC 会议                   April28-29            -          -        待发布
+FOMC 会议                   June16-17*            -          -        待发布
+FOMC 会议                   July28-29             -          -        待发布
+FOMC 会议                   September15-16*          -          -        待发布
+FOMC 会议                   October27-28          -          -        待发布
+FOMC 会议                   December8-9*          -          -        待发布
+FOMC 会议                   January28-29Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released February 19, 2025)          -          -        待发布
+FOMC 会议                   March18-19*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released April 09, 2025)          -          -        待发布
+FOMC 会议                   May6-7Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released May 28, 2025)          -          -        待发布
+FOMC 会议                   June17-18*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released July 09, 2025)          -          -        待发布
+FOMC 会议                   July29-30Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released August 20, 2025)          -          -        待发布
+FOMC 会议                   August22 (notation vote)Statement on Longer-Run Goals and Monetary Policy Strategy          -          -        待发布
+FOMC 会议                   September16-17*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released October 08, 2025)          -          -        待发布
+FOMC 会议                   October28-29Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released November 19, 2025)          -          -        待发布
+FOMC 会议                   December9-10*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released December 30, 2025)          -          -        待发布
+FOMC 会议                   January30-31Statement:PDF|HTMLImplementation NotePress ConferenceStatement on Longer-Run Goals and Monetary Policy StrategyMinutes:PDF|HTML(Released February 21, 2024)          -          -        待发布
+FOMC 会议                   March19-20*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released April 10, 2024)          -          -        待发布
+FOMC 会议                   Apr/May30-1Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released May 22, 2024)          -          -        待发布
+FOMC 会议                   June11-12*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released July 03, 2024)          -          -        待发布
+FOMC 会议                   July30-31Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released August 21, 2024)          -          -        待发布
+FOMC 会议                   September17-18*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released October 09, 2024)          -          -        待发布
+FOMC 会议                   November6-7Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released November 26, 2024)          -          -        待发布
+FOMC 会议                   December17-18*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released January 08, 2025)          -          -        待发布
+FOMC 会议                   Jan/Feb31-1Statement:PDF|HTMLImplementation NotePress ConferenceStatement on Longer-Run Goals and Monetary Policy StrategyMinutes:PDF|HTML(Released February 22, 2023)          -          -        待发布
+FOMC 会议                   March21-22*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released April 12, 2023)          -          -        待发布
+FOMC 会议                   May2-3Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released May 24, 2023)          -          -        待发布
+FOMC 会议                   June13-14*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released July 05, 2023)          -          -        待发布
+FOMC 会议                   July25-26Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released August 16, 2023)          -          -        待发布
+FOMC 会议                   September19-20*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released October 11, 2023)          -          -        待发布
+FOMC 会议                   Oct/Nov31-1Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released November 21, 2023)          -          -        待发布
+FOMC 会议                   December12-13*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released January 03, 2024)          -          -        待发布
+FOMC 会议                   January25-26Statement:PDF|HTMLImplementation NotePress ConferenceStatement on Longer-Run Goals and Monetary Policy StrategyPrinciples for Reducing the Size of the Federal Reserve's Balance SheetMinutes:PDF|HTML(Released February 16, 2022)          -          -        待发布
+FOMC 会议                   March15-16*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released April 06, 2022)          -          -        待发布
+FOMC 会议                   May3-4Statement:PDF|HTMLImplementation NotePress ConferencePlans for Reducing the Size of the Federal Reserve's Balance SheetMinutes:PDF|HTML(Released May 25, 2022)          -          -        待发布
+FOMC 会议                   June14-15*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released July 06, 2022)          -          -        待发布
+FOMC 会议                   July26-27Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released August 17, 2022)          -          -        待发布
+FOMC 会议                   September20-21*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released October 12, 2022)          -          -        待发布
+FOMC 会议                   November1-2Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released November 23, 2022)          -          -        待发布
+FOMC 会议                   December13-14*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released January 04, 2023)          -          -        待发布
+FOMC 会议                   January26-27Statement:PDF|HTMLImplementation NotePress ConferenceStatement on Longer-Run Goals and Monetary Policy StrategyMinutes:PDF|HTML(Released February 17, 2021)          -          -        待发布
+FOMC 会议                   March16-17*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released April 07, 2021)          -          -        待发布
+FOMC 会议                   April27-28Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released May 19, 2021)          -          -        待发布
+FOMC 会议                   June15-16*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released July 07, 2021)          -          -        待发布
+FOMC 会议                   July27-28Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released August 18, 2021)          -          -        待发布
+FOMC 会议                   September21-22*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released October 13, 2021)          -          -        待发布
+FOMC 会议                   November2-3Statement:PDF|HTMLImplementation NotePress ConferenceMinutes:PDF|HTML(Released November 24, 2021)          -          -        待发布
+FOMC 会议                   December14-15*Statement:PDF|HTMLImplementation NotePress ConferenceProjection MaterialsPDF|HTMLMinutes:PDF|HTML(Released January 05, 2022)          -          -        待发布
+FOMC 会议                   January26-27          -          -        待发布
+FOMC 会议                   March16-17*           -          -        待发布
+FOMC 会议                   April27-28            -          -        待发布
+FOMC 会议                   June8-9*              -          -        待发布
+FOMC 会议                   July27-28             -          -        待发布
+FOMC 会议                   September14-15*          -          -        待发布
+FOMC 会议                   October26-27          -          -        待发布
+FOMC 会议                   December7-8*          -          -        待发布
+
+━━━ 手动查询来源（推荐）━━━
+  1. https://www.investing.com/economic-calendar/
+     → 筛选: 国家=美国, 重要性=3星
+  2. https://finance.yahoo.com/calendar/economic/
+  3. https://www.forexfactory.com/calendar
+     → 筛选: USD, High Impact
+
+━━━ 本周需关注的常见数据类型 ━━━
+  • 每周四 08:30 ET: 首次申请失业救济人数
+  • 月初: 关注 ISM 制造业/非制造业 PMI
+  • 第一个周五: 非农就业数据
+
+
+════════════════════════════════════════════════════════════
+ 报告结束
+ 请将以上全部内容复制粘贴给 AI 交易助手
+════════════════════════════════════════════════════════════
