@@ -1,6 +1,6 @@
 ════════════════════════════════════════════════════════════
  AI 交易助手 — 完整市场数据报告
- 生成时间: 2026-04-10 10:26:44
+ 生成时间: 2026-04-29 10:16:45
 ════════════════════════════════════════════════════════════
 
 [1/3] 获取市场行情数据...
@@ -10,58 +10,63 @@
 以下内容可直接复制粘贴给 AI 交易助手:
 ============================================================
 
-[市场概览] 2026-04-09 22:26 ET
+[市场概览] 2026-04-28 22:16 ET
 当前状态: 休市（美东 20:00-04:00）
-北京时间: 2026-04-10 10:26 北京时间
+北京时间: 2026-04-29 10:16 北京时间
 
 ═══ 大盘指数 ═══
-SPY(标普500 ETF): $679.91 +0.76% Vol:56.3M | 周涨跌:+3.67%
-QQQ(纳斯达克100 ETF): $610.19 +0.94% Vol:37.0M | 周涨跌:+4.31%
-DIA(道琼斯 ETF): $481.90 +0.70% Vol:4.1M | 周涨跌:+3.62%
-IWM(罗素2000 ETF): $261.96 +0.78% Vol:26.4M | 周涨跌:+4.25%
+SPY(标普500 ETF): $711.69 -0.64% Vol:37.3M | 周涨跌:+0.07%
+QQQ(纳斯达克100 ETF): $657.55 -1.17% Vol:33.8M | 周涨跌:+0.37%
+DIA(道琼斯 ETF): $491.42 -0.16% Vol:2.8M | 周涨跌:-0.68%
+IWM(罗素2000 ETF): $273.91 -1.37% Vol:24.0M | 周涨跌:-0.93%
 
 ═══ VIX 恐慌指数 ═══
-VIX: 19.49 (-7.37%)
+VIX: 17.83 (-1.05%)
 等级: 🟢 正常波动
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[板块热力图] 2026-04-09 22:26 ET
+[板块热力图] 2026-04-28 22:16 ET
 
 板块         ETF          价格      日涨跌      周涨跌
 ──────────────────────────────────────────────
-🟢 可选消费     XLY    $ 112.74 +  1.44% +  4.24%
-🟢 必需消费     XLP    $  83.45 +  1.26% +  1.90%
-🟢 工业       XLI    $ 172.19 +  1.18% +  5.14%
-🟩 房地产      XLRE   $  42.73 +  0.85% +  2.69%
-🟩 公用事业     XLU    $  47.15 +  0.75% +  1.75%
-🟩 科技       XLK    $ 142.07 +  0.58% +  4.47%
-🟩 金融       XLF    $  51.33 +  0.41% +  3.63%
-🟩 通信服务     XLC    $ 114.27 +  0.29% +  2.30%
-🟩 材料       XLB    $  51.67 +  0.14% +  2.50%
-🟧 医疗保健     XLV    $ 149.33  -0.07% +  1.72%
-🔴 能源       XLE    $  57.33  -1.38%  -3.24%
+🟢 能源       XLE    $  57.71 +  1.48% +  2.07%
+🟩 必需消费     XLP    $  83.08 +  0.89% +  1.18%
+🟩 房地产      XLRE   $  43.91 +  0.71% +  1.04%
+🟩 医疗保健     XLV    $ 143.84 +  0.18%  -1.74%
+🟩 金融       XLF    $  51.85 +  0.04%  -0.69%
+🟩 通信服务     XLC    $ 115.75 +  0.04%  -1.81%
+🟧 公用事业     XLU    $  46.25  -0.09% +  3.08%
+🟧 可选消费     XLY    $ 117.01  -0.67%  -1.61%
+🟧 材料       XLB    $  51.40  -0.85%  -0.83%
+🔴 工业       XLI    $ 170.98  -1.13%  -0.04%
+🔴 科技       XLK    $ 157.85  -1.90%  -0.15%
 
-涨: 9个板块 | 跌: 2个板块
+涨: 6个板块 | 跌: 5个板块
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[行情] 2026-04-09 22:27 ET
-AAPL: $260.49 (+0.69%) Vol: 26.2M 市值: 3.83T
-MSFT: $373.07 (-0.25%) Vol: 28.4M 市值: 2.77T
-NVDA: $183.91 (+1.64%) Vol: 115.7M 市值: 4.47T
-GOOGL: $318.49 (+0.54%) Vol: 23.6M 市值: 3.85T
-AMZN: $233.65 (+6.05%) Vol: 65.5M 市值: 2.51T
-META: $628.39 (+2.00%) Vol: 18.9M 市值: 1.59T
-TSLA: $345.62 (+1.28%) Vol: 61.1M 市值: 1.30T
-TSM: $365.49 (+0.69%) Vol: 9.2M 市值: 1.90T
-AVGO: $354.91 (+2.07%) Vol: 19.3M 市值: 1.68T
-AMD: $236.64 (+3.02%) Vol: 26.9M 市值: 385.8B
-CRM: $170.85 (-3.39%) Vol: 16.4M 市值: 160.1B
-NFLX: $102.05 (+2.91%) Vol: 34.0M 市值: 432.9B
-ORCL: $137.86 (-4.21%) Vol: 30.3M 市值: 396.5B
-PLTR: $130.49 (-7.54%) Vol: 90.8M 市值: 312.1B
-APP: $379.14 (-3.48%) Vol: 6.5M 市值: 128.1B
+[行情] 2026-04-28 22:17 ET
+PDD: $97.29 (-1.32%) Vol: 3.9M 市值: 138.1B
+META: $671.34 (-1.08%) Vol: 10.3M 市值: 1.70T
+NVDA: $213.17 (-2.55%) Vol: 179.4M 市值: 5.18T
+AMD: $323.21 (-3.52%) Vol: 42.0M 市值: 527.0B
+CRWD: $454.99 (+-0.00%) Vol: 1.8M 市值: 115.4B
+MSFT: $429.25 (+0.91%) Vol: 30.3M 市值: 3.19T
+AMZN: $259.70 (-0.78%) Vol: 42.1M 市值: 2.79T
+ASML: $1384.56 (-3.42%) Vol: 1.9M 市值: 533.6B
+RKLB: $78.59 (-4.81%) Vol: 14.3M 市值: 45.4B
+NBIS: $135.51 (-6.71%) Vol: 15.9M 市值: 34.3B
+AAPL: $270.71 (+1.06%) Vol: 32.8M 市值: 3.97T
+GOOGL: $349.78 (-0.70%) Vol: 27.2M 市值: 4.23T
+TSLA: $376.02 (-0.49%) Vol: 50.3M 市值: 1.41T
+TSM: $392.34 (-3.39%) Vol: 14.5M 市值: 2.03T
+AVGO: $399.83 (-4.38%) Vol: 25.5M 市值: 1.89T
+CRM: $181.32 (+0.31%) Vol: 7.3M 市值: 148.3B
+NFLX: $92.27 (+0.95%) Vol: 32.0M 市值: 388.5B
+ORCL: $165.96 (-4.07%) Vol: 33.5M 市值: 477.3B
+PLTR: $141.18 (-1.20%) Vol: 24.5M 市值: 338.4B
+APP: $449.03 (-2.35%) Vol: 2.8M 市值: 151.0B
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -69,19 +74,31 @@ APP: $379.14 (-3.48%) Vol: 6.5M 市值: 128.1B
 
 日期           股票      
 ──────────────────────
-2026-04-14   JNJ     
-2026-04-14   JPM     
-2026-04-16   TSM     
+2026-04-28   KO      
+2026-04-29   V       
+2026-04-29   ABBV    
+2026-04-30   MSFT    
+2026-04-30   GOOGL   
+2026-04-30   AMZN    
+2026-04-30   META    
+2026-04-30   MA      
+2026-04-30   LLY     
+2026-05-01   AAPL    
+2026-05-01   ROKU    
+2026-05-01   RBLX    
+2026-05-05   PLTR    
+2026-05-05   SHOP    
+2026-05-05   PFE     
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[经济日历] 2026-04-09 22:27 ET  |  未来14天 (2026-04-09 → 2026-04-23)
+[经济日历] 2026-04-28 22:17 ET  |  未来14天 (2026-04-28 → 2026-05-12)
 
 未来期间内暂无高影响经济数据发布
 
 ⚠️  部分数据获取失败，请手动查阅:
-  • BLS 数据获取失败: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.bls.gov/schedule/news_release/current_year.asp (Caused by NewConnectionError("HTTPSConnection(host='r.jina.ai', port=443): Failed to establish a new connection: [Errno 65] No route to host"))
-  • FOMC 数据获取失败: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm (Caused by NewConnectionError("HTTPSConnection(host='r.jina.ai', port=443): Failed to establish a new connection: [Errno 65] No route to host"))
+  • BLS 数据获取失败: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.bls.gov/schedule/news_release/current_year.asp (Caused by ConnectTimeoutError(<HTTPSConnection(host='r.jina.ai', port=443) at 0x10e8f5df0>, 'Connection to r.jina.ai timed out. (connect timeout=20)'))
+  • FOMC 数据获取失败: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm (Caused by ConnectTimeoutError(<HTTPSConnection(host='r.jina.ai', port=443) at 0x10e920160>, 'Connection to r.jina.ai timed out. (connect timeout=20)'))
 
 ━━━ 补充数据来源 ━━━
   • https://www.bls.gov/schedule/news_release/current_year.asp  (BLS官方日历)
@@ -90,33 +107,33 @@ APP: $379.14 (-3.48%) Vol: 6.5M 市值: 128.1B
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[美联储政策 & 利率环境] 2026-04-09 22:27 ET
+[美联储政策 & 利率环境] 2026-04-28 22:17 ET
 
 ═══ 美国国债收益率 ═══
 
 期限                      收益率      日变动      周变动
 ──────────────────────────────────────────────
-3个月国债收益率             3.588%  -0.012  -0.035
-5年国债收益率              3.915%  -0.005  -0.066
-10年国债收益率             4.293% +  0.002  -0.042
-30年国债收益率             4.897% +  0.010 +  0.006
+3个月国债收益率             3.590% +  0.000  -0.005
+5年国债收益率              3.983% +  0.036 +  0.068
+10年国债收益率             4.354% +  0.018 +  0.060
+30年国债收益率             4.944% +  0.002 +  0.042
 
 ═══ 收益率曲线分析 ═══
 
   曲线状态: 正常
-  • 3M/10Y 利差正常: 0.705%
-  • 10Y/30Y 利差: 0.604%
-  • 10Y 收益率 4.293% — 偏高，关注后续走势
+  • 3M/10Y 利差正常: 0.764%
+  • 10Y/30Y 利差: 0.590%
+  • 10Y 收益率 4.354% — 偏高，关注后续走势
 
 ═══ 利率敏感 ETF ═══
 
 ETF    名称                           价格      日涨跌      周涨跌
 ────────────────────────────────────────────────────────
-TLT    20+年国债ETF(利率反向)        $  86.70  -0.13%  -0.10%
-SHY    1-3年国债ETF              $  82.44  -0.04% +  0.10%
-IEF    7-10年国债ETF             $  95.43  -0.08% +  0.18%
-HYG    高收益债ETF                $  80.28 +  0.07% +  0.90%
-LQD    投资级债ETF                $ 109.49  -0.02% +  0.34%
+TLT    20+年国债ETF(利率反向)        $  86.37 +  0.06%  -0.43%
+SHY    1-3年国债ETF              $  82.50  -0.18%  -0.02%
+IEF    7-10年国债ETF             $  95.25  -0.05%  -0.28%
+HYG    高收益债ETF                $  80.40  -0.12%  -0.12%
+LQD    投资级债ETF                $ 109.34 +  0.11%  -0.44%
 
 ═══ 联邦基金利率 ═══
 
@@ -141,33 +158,33 @@ LQD    投资级债ETF                $ 109.49  -0.02% +  0.34%
 
 [2/3] 获取美联储政策 & 利率数据...
 
-[美联储政策 & 利率环境] 2026-04-09 22:27 ET
+[美联储政策 & 利率环境] 2026-04-28 22:18 ET
 
 ═══ 美国国债收益率 ═══
 
 期限                      收益率      日变动      周变动
 ──────────────────────────────────────────────
-3个月国债收益率             3.588%  -0.012  -0.035
-5年国债收益率              3.915%  -0.005  -0.066
-10年国债收益率             4.293% +  0.002  -0.042
-30年国债收益率             4.897% +  0.010 +  0.006
+3个月国债收益率             3.590% +  0.000  -0.005
+5年国债收益率              3.983% +  0.036 +  0.068
+10年国债收益率             4.354% +  0.018 +  0.060
+30年国债收益率             4.944% +  0.002 +  0.042
 
 ═══ 收益率曲线分析 ═══
 
   曲线状态: 正常
-  • 3M/10Y 利差正常: 0.705%
-  • 10Y/30Y 利差: 0.604%
-  • 10Y 收益率 4.293% — 偏高，关注后续走势
+  • 3M/10Y 利差正常: 0.764%
+  • 10Y/30Y 利差: 0.590%
+  • 10Y 收益率 4.354% — 偏高，关注后续走势
 
 ═══ 利率敏感 ETF ═══
 
 ETF    名称                           价格      日涨跌      周涨跌
 ────────────────────────────────────────────────────────
-TLT    20+年国债ETF(利率反向)        $  86.70  -0.13%  -0.10%
-SHY    1-3年国债ETF              $  82.44  -0.04% +  0.10%
-IEF    7-10年国债ETF             $  95.43  -0.08% +  0.18%
-HYG    高收益债ETF                $  80.28 +  0.07% +  0.90%
-LQD    投资级债ETF                $ 109.49  -0.02% +  0.34%
+TLT    20+年国债ETF(利率反向)        $  86.37 +  0.06%  -0.43%
+SHY    1-3年国债ETF              $  82.50  -0.18%  -0.02%
+IEF    7-10年国债ETF             $  95.25  -0.05%  -0.28%
+HYG    高收益债ETF                $  80.40  -0.12%  -0.12%
+LQD    投资级债ETF                $ 109.34 +  0.11%  -0.44%
 
 ═══ 联邦基金利率 ═══
 
@@ -192,13 +209,13 @@ LQD    投资级债ETF                $ 109.49  -0.02% +  0.34%
 
 [3/3] 获取经济日历...
 
-[经济日历] 2026-04-09 22:28 ET  |  未来14天 (2026-04-09 → 2026-04-23)
+[经济日历] 2026-04-28 22:18 ET  |  未来14天 (2026-04-28 → 2026-05-12)
 
 未来期间内暂无高影响经济数据发布
 
 ⚠️  部分数据获取失败，请手动查阅:
-  • BLS 数据获取失败: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.bls.gov/schedule/news_release/current_year.asp (Caused by NewConnectionError("HTTPSConnection(host='r.jina.ai', port=443): Failed to establish a new connection: [Errno 65] No route to host"))
-  • FOMC 数据获取失败: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm (Caused by NewConnectionError("HTTPSConnection(host='r.jina.ai', port=443): Failed to establish a new connection: [Errno 65] No route to host"))
+  • BLS 数据获取失败: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.bls.gov/schedule/news_release/current_year.asp (Caused by ConnectTimeoutError(<HTTPSConnection(host='r.jina.ai', port=443) at 0x105f402b0>, 'Connection to r.jina.ai timed out. (connect timeout=20)'))
+  • FOMC 数据获取失败: HTTPSConnectionPool(host='r.jina.ai', port=443): Max retries exceeded with url: /https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm (Caused by ConnectTimeoutError(<HTTPSConnection(host='r.jina.ai', port=443) at 0x105f63820>, 'Connection to r.jina.ai timed out. (connect timeout=20)'))
 
 ━━━ 补充数据来源 ━━━
   • https://www.bls.gov/schedule/news_release/current_year.asp  (BLS官方日历)
